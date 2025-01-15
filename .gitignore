@@ -1,0 +1,61 @@
+# 빌드 디렉토리
+.gradle/
+build/
+!gradle/wrapper/gradle-wrapper.jar
+!**/src/main/**/build/
+!**/src/test/**/build/
+
+# Spring Boot
+*.log
+logs/
+spring.log
+
+# 환경 설정 파일
+application.properties
+application.yml
+*.env
+
+# IDE 설정
+.idea/
+*.iws
+*.iml
+*.ipr
+.vscode/
+.classpath
+.project
+.factorypath
+.settings/
+.springBeans
+.sts4-cache
+bin/
+!**/src/main/**/bin/
+!**/src/test/**/bin/
+
+# Gradle
+.gradle/
+gradle-app.setting
+
+# Maven
+.mvn/
+target/
+
+# 배포 파일
+*.war
+*.jar
+*.ear
+
+# MacOS
+.DS_Store
+
+# Windows
+Thumbs.db
+
+# 테스트 결과
+/test-output/
+
+# 임시 파일
+*.tmp
+*.bak
+*.swp
+*.swo
+*~
