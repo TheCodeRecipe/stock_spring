@@ -13,8 +13,7 @@ Stock Signal 프로젝트의 메인 백엔드 코드입니다.
 
 3. **데이터 관리 및 제공**
    - 분석 결과를 데이터베이스에 저장하고 사용자 요청 시 반환.
-
-
+     
 
 ## **사용 기술**
 - **프레임워크**: Spring Boot
@@ -25,4 +24,4 @@ Stock Signal 프로젝트의 메인 백엔드 코드입니다.
 
 🔗 **[Stock Signal 프론트엔드 리포지토리](https://github.com/TheCodeRecipe/stock-signal)**
 
-🔗 **[Stock Signal 파이썬 리포지토리](https://github.com/TheCodeRecipe/stock-api)**
+🔗 **[Stock Signal 파이썬 리포지토리](https://github.com/TheCodeRecipe/stock_api)**
